@@ -1,0 +1,21 @@
+// format is: name glyph row col dRow dCol calories
+// name is a string, the creature's full name.
+// glyph is a char: the creature's character to be drawn on the board
+// row and col are ints: the creature's position on the board
+// dRow and dCol are also ints (-1, 0, or 1): a vector describing creature's direction of travel
+// calories is an int: the creature's caloric value when eaten
+// calories will be used in Part B of the project.
+Mouse M 5 2 1 1 90
+Rabbit R 8 27 1 -1 110
+Boar B 18 18 -1 0 240
+Squirrel S 9 4 -1 -1 100
+Deer D 12 15 1 0 350
+Fox F 6 19 -1 1 150
+Raccoon C 10 7 0 1 120
+Owl O 3 25 1 -1 140
+Hedgehog H 15 10 -1 1 70
+Badger A 7 12 1 1 180
+Porcupine P 18 5 0 -1 130
+Skunk K 14 23 1 0 100
+Lynx L 4 8 -1 0 210
+Falcon N 1 29 0 1 160

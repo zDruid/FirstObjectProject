@@ -1,0 +1,3 @@
+turn:0 cmd:'down' calories:115 creatures:14
+turn:1 cmd:'down' calories:110 creatures:14
+turn:2 cmd:'down' calories:180 creatures:13
